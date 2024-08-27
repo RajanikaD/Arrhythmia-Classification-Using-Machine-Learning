@@ -19,8 +19,11 @@ The primary libraries used in this project include:
 The project is organized as follows:
 .
 ├── Arrhythmia.ipynb          # Jupyter Notebook containing the project code
+
 ├── README.md                 # Project README file
+
 ├── requirements.txt          # List of required Python libraries
+
 └── data                      # Directory containing the dataset (if applicable)
 
 ## Methodology
